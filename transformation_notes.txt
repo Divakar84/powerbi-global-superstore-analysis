@@ -1,0 +1,9 @@
+Dataset: Global Superstore
+
+• Removed unnecessary columns like Row ID
+• Renamed columns for clarity
+• Fixed missing values
+• Corrected data types
+• Created Delivery Days column
+• Created Sales Category and Profit Status columns
+• Built sales and profit visuals
